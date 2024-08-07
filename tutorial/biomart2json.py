@@ -8,8 +8,8 @@ server = Server(host='http://www.ensembl.org')
 datasets = server.list_marts()
 
 server = Server(host='http://www.ensembl.org')
-print(server['ENSEMBL_MART_ENSEMBL'])
-genome_mart_name = 'ENSEMBL_MART_ENSEMBL'
+print(server.list_marts())
+genome_mart_name = 'ENSEMBL_MART_SEQUENCE'
 mart = server[genome_mart_name]
 available_datasets = mart.list_datasets()
 
