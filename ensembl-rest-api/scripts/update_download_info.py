@@ -1,42 +1,71 @@
 # 다운로드 가능한 링크 정보를 config/download_info.json에 저장하고 업데이트
 
-import requests
 import json
 import os
-from datetime import datetime
+from ftplib import FTP
 
-BASE_URL = "https://rest.ensembl.org"
+FTP_SERVER = "ftp.ensembl.org"
+BASE_PATH = "/pub/release-{release}/fasta/{species}/dna/"
 
-def get_latest_release():
-    response = requests.get(f"{BASE_URL}/info/data", headers={"Content-Type": "application/json"})
-    if response.status_code == 200:
-        data = response.json()
-        return max(release['version'] for release in data['releases'])
-    else:
-        raise Exception("Failed to fetch latest release information")
+def load_species_assembly_info():
+    with open("config/species_assembly_info.json", "r") as f:
+        return json.load(f)
 
-def update_available_releases(latest_release):
-    file_path = "config/available_releases.json"
-    if os.path.exists(file_path):
-        with open(file_path, "r") as f:
-            releases = json.load(f)
-    else:
-        releases = []
-
-    if latest_release not in releases:
-        releases.append(latest_release)
-        releases.sort(reverse=True)
-        with open(file_path, "w") as f:
-            json.dump(releases, f, indent=2)
+def check_file_exists(ftp, filename):
+    try:
+        ftp.size(filename)
         return True
-    return False
+    except:
+        return False
+
+def generate_download_info():
+    species_info = load_species_assembly_info()
+    download_info = {}
+
+    with FTP(FTP_SERVER) as ftp:
+        ftp.login()
+        
+        for species in species_info:
+            species_name = species['name']
+            assembly_info = species.get('assembly_info', {})
+            assembly_name = assembly_info.get('assembly_name')
+            release = species['release']
+
+            if not assembly_name:
+                print(f"Warning: No assembly information for {species_name}")
+                continue
+
+            ftp_path = BASE_PATH.format(release=release, species=species_name)
+            try:
+                ftp.cwd(ftp_path)
+            except:
+                print(f"Warning: FTP path not found for {species_name}")
+                continue
+
+            download_info[species_name] = {"release": release, "assembly": assembly_name, "files": {}}
+
+            for seq_type in ['dna', 'dna_sm', 'dna_rm']:
+                for id_type in ['toplevel', 'primary_assembly']:
+                    filename = f"{species_name}.{assembly_name}.{seq_type}.{id_type}.fa.gz"
+                    if check_file_exists(ftp, filename):
+                        url = f"ftp://{FTP_SERVER}{ftp_path}{filename}"
+                        download_info[species_name]["files"][f"{seq_type}_{id_type}"] = url
+                        print(f"Added {seq_type}_{id_type} for {species_name}")
+
+            if not download_info[species_name]["files"]:
+                print(f"Warning: No files found for {species_name}")
+                del download_info[species_name]
+
+    return download_info
+
+def save_download_info(download_info):
+    with open("config/download_info.json", "w") as f:
+        json.dump(download_info, f, indent=2)
 
 def main():
-    latest_release = get_latest_release()
-    if update_available_releases(latest_release):
-        print(f"New release {latest_release} added")
-    else:
-        print("No new release found")
+    download_info = generate_download_info()
+    save_download_info(download_info)
+    print(f"Updated download information for {len(download_info)} species")
 
 if __name__ == "__main__":
     main()
