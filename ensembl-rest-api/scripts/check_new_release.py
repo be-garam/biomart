@@ -8,10 +8,12 @@ from datetime import datetime
 BASE_URL = "https://rest.ensembl.org"
 
 def get_latest_release():
-    response = requests.get(f"{BASE_URL}/info/data", headers={"Content-Type": "application/json"})
+    ext = "/info/data/?"
+    response = requests.get(BASE_URL+ext, headers={"Content-Type": "application/json"})
     if response.status_code == 200:
         data = response.json()
-        return max(release['version'] for release in data['releases'])
+        print(data)
+        return data['releases'][0]
     else:
         raise Exception("Failed to fetch latest release information")
 
