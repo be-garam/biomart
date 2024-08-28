@@ -1,1101 +1,2273 @@
 {
+  "naja_naja": {
+    "release": 112,
+    "assembly": "Nana_v5",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/naja_naja/dna/Naja_naja.Nana_v5.dna.toplevel.fa.gz"
+    }
+  },
+  "lates_calcarifer": {
+    "release": 112,
+    "assembly": "ASB_HGAPassembly_v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/lates_calcarifer/dna/Lates_calcarifer.ASB_HGAPassembly_v1.dna.toplevel.fa.gz"
+    }
+  },
+  "carassius_auratus": {
+    "release": 112,
+    "assembly": "ASM336829v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/carassius_auratus/dna/Carassius_auratus.ASM336829v1.dna.toplevel.fa.gz"
+    }
+  },
+  "mus_musculus_akrj": {
+    "release": 112,
+    "assembly": "AKR_J_v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/mus_musculus_akrj/dna/Mus_musculus_akrj.AKR_J_v1.dna.toplevel.fa.gz"
+    }
+  },
+  "malurus_cyaneus_samueli": {
+    "release": 112,
+    "assembly": "mCya_1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/malurus_cyaneus_samueli/dna/Malurus_cyaneus_samueli.mCya_1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "phasianus_colchicus": {
+    "release": 112,
+    "assembly": "ASM414374v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/phasianus_colchicus/dna/Phasianus_colchicus.ASM414374v1.dna.toplevel.fa.gz"
+    }
+  },
+  "corvus_moneduloides": {
+    "release": 112,
+    "assembly": "bCorMon1.pri",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/corvus_moneduloides/dna/Corvus_moneduloides.bCorMon1.pri.dna.toplevel.fa.gz"
+    }
+  },
+  "anas_platyrhynchos": {
+    "release": 112,
+    "assembly": "ASM874695v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/anas_platyrhynchos/dna/Anas_platyrhynchos.ASM874695v1.dna.toplevel.fa.gz"
+    }
+  },
+  "serinus_canaria": {
+    "release": 112,
+    "assembly": "SCA1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/serinus_canaria/dna/Serinus_canaria.SCA1.dna.toplevel.fa.gz"
+    }
+  },
+  "vombatus_ursinus": {
+    "release": 112,
+    "assembly": "bare-nosed_wombat_genome_assembly",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/vombatus_ursinus/dna/Vombatus_ursinus.bare-nosed_wombat_genome_assembly.dna.toplevel.fa.gz"
+    }
+  },
   "physeter_catodon": {
     "release": 112,
     "assembly": "ASM283717v2",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/physeter_catodon/dna/physeter_catodon.ASM283717v2.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/physeter_catodon/dna/Physeter_catodon.ASM283717v2.dna.toplevel.fa.gz"
+    }
+  },
+  "panthera_pardus": {
+    "release": 112,
+    "assembly": "PanPar1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/panthera_pardus/dna/Panthera_pardus.PanPar1.0.dna.toplevel.fa.gz"
     }
   },
   "macaca_mulatta": {
     "release": 112,
     "assembly": "Mmul_10",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/macaca_mulatta/dna/macaca_mulatta.Mmul_10.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/macaca_mulatta/dna/Macaca_mulatta.Mmul_10.dna.toplevel.fa.gz"
+    }
+  },
+  "ciona_savignyi": {
+    "release": 112,
+    "assembly": "CSAV2.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/ciona_savignyi/dna/Ciona_savignyi.CSAV2.0.dna.toplevel.fa.gz"
     }
   },
   "echeneis_naucrates": {
     "release": 112,
     "assembly": "fEcheNa1.1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/echeneis_naucrates/dna/echeneis_naucrates.fEcheNa1.1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/echeneis_naucrates/dna/Echeneis_naucrates.fEcheNa1.1.dna.toplevel.fa.gz"
+    }
+  },
+  "pygocentrus_nattereri": {
+    "release": 112,
+    "assembly": "fPygNat1.pri",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/pygocentrus_nattereri/dna/Pygocentrus_nattereri.fPygNat1.pri.dna.toplevel.fa.gz"
     }
   },
   "seriola_dumerili": {
     "release": 112,
     "assembly": "Sdu_1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/seriola_dumerili/dna/seriola_dumerili.Sdu_1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/seriola_dumerili/dna/Seriola_dumerili.Sdu_1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "chelydra_serpentina": {
+    "release": 112,
+    "assembly": "Chelydra_serpentina-1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/chelydra_serpentina/dna/Chelydra_serpentina.Chelydra_serpentina-1.0.dna.toplevel.fa.gz"
     }
   },
   "marmota_marmota_marmota": {
     "release": 112,
     "assembly": "marMar2.1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/marmota_marmota_marmota/dna/marmota_marmota_marmota.marMar2.1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/marmota_marmota_marmota/dna/Marmota_marmota_marmota.marMar2.1.dna.toplevel.fa.gz"
+    }
+  },
+  "catagonus_wagneri": {
+    "release": 112,
+    "assembly": "CatWag_v2_BIUU_UCD",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/catagonus_wagneri/dna/Catagonus_wagneri.CatWag_v2_BIUU_UCD.dna.toplevel.fa.gz"
     }
   },
   "lynx_canadensis": {
     "release": 112,
     "assembly": "mLynCan4_v1.p",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/lynx_canadensis/dna/lynx_canadensis.mLynCan4_v1.p.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/lynx_canadensis/dna/Lynx_canadensis.mLynCan4_v1.p.dna.toplevel.fa.gz"
+    }
+  },
+  "mus_musculus_c57bl6nj": {
+    "release": 112,
+    "assembly": "C57BL_6NJ_v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/mus_musculus_c57bl6nj/dna/Mus_musculus_c57bl6nj.C57BL_6NJ_v1.dna.toplevel.fa.gz"
     }
   },
   "danio_rerio": {
     "release": 112,
     "assembly": "GRCz11",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/danio_rerio/dna/danio_rerio.GRCz11.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/danio_rerio/dna/Danio_rerio.GRCz11.dna.toplevel.fa.gz",
+      "dna_primary_assembly": "https://ftp.ensembl.org/pub/release-112/fasta/danio_rerio/dna/Danio_rerio.GRCz11.dna.primary_assembly.fa.gz"
+    }
+  },
+  "mola_mola": {
+    "release": 112,
+    "assembly": "ASM169857v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/mola_mola/dna/Mola_mola.ASM169857v1.dna.toplevel.fa.gz"
     }
   },
   "cairina_moschata_domestica": {
     "release": 112,
     "assembly": "CaiMos1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/cairina_moschata_domestica/dna/cairina_moschata_domestica.CaiMos1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/cairina_moschata_domestica/dna/Cairina_moschata_domestica.CaiMos1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "pavo_cristatus": {
+    "release": 112,
+    "assembly": "AIIM_Pcri_1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/pavo_cristatus/dna/Pavo_cristatus.AIIM_Pcri_1.0.dna.toplevel.fa.gz"
     }
   },
   "tetraodon_nigroviridis": {
     "release": 112,
-    "assembly": "TETRAODON 8.0",
+    "assembly": "TETRAODON8",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/tetraodon_nigroviridis/dna/tetraodon_nigroviridis.TETRAODON 8.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/tetraodon_nigroviridis/dna/Tetraodon_nigroviridis.TETRAODON8.dna.toplevel.fa.gz"
+    }
+  },
+  "mesocricetus_auratus": {
+    "release": 112,
+    "assembly": "MesAur1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/mesocricetus_auratus/dna/Mesocricetus_auratus.MesAur1.0.dna.toplevel.fa.gz"
     }
   },
   "equus_asinus": {
     "release": 112,
     "assembly": "ASM1607732v2",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/equus_asinus/dna/equus_asinus.ASM1607732v2.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/equus_asinus/dna/Equus_asinus.ASM1607732v2.dna.toplevel.fa.gz"
+    }
+  },
+  "monopterus_albus": {
+    "release": 112,
+    "assembly": "M_albus_1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/monopterus_albus/dna/Monopterus_albus.M_albus_1.0.dna.toplevel.fa.gz"
     }
   },
   "cyanistes_caeruleus": {
     "release": 112,
     "assembly": "cyaCae2",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/cyanistes_caeruleus/dna/cyanistes_caeruleus.cyaCae2.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/cyanistes_caeruleus/dna/Cyanistes_caeruleus.cyaCae2.dna.toplevel.fa.gz"
+    }
+  },
+  "xiphophorus_maculatus": {
+    "release": 112,
+    "assembly": "X_maculatus-5.0-male",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/xiphophorus_maculatus/dna/Xiphophorus_maculatus.X_maculatus-5.0-male.dna.toplevel.fa.gz"
     }
   },
   "ovis_aries": {
     "release": 112,
     "assembly": "Oar_v3.1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/ovis_aries/dna/ovis_aries.Oar_v3.1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/ovis_aries/dna/Ovis_aries.Oar_v3.1.dna.toplevel.fa.gz"
+    }
+  },
+  "esox_lucius": {
+    "release": 112,
+    "assembly": "fEsoLuc1.pri",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/esox_lucius/dna/Esox_lucius.fEsoLuc1.pri.dna.toplevel.fa.gz"
     }
   },
   "geospiza_fortis": {
     "release": 112,
     "assembly": "GeoFor_1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/geospiza_fortis/dna/geospiza_fortis.GeoFor_1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/geospiza_fortis/dna/Geospiza_fortis.GeoFor_1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "strix_occidentalis_caurina": {
+    "release": 112,
+    "assembly": "Soccid_v01",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/strix_occidentalis_caurina/dna/Strix_occidentalis_caurina.Soccid_v01.dna.toplevel.fa.gz"
     }
   },
   "mus_musculus": {
     "release": 112,
     "assembly": "GRCm39",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/mus_musculus/dna/mus_musculus.GRCm39.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/mus_musculus/dna/Mus_musculus.GRCm39.dna.toplevel.fa.gz",
+      "dna_primary_assembly": "https://ftp.ensembl.org/pub/release-112/fasta/mus_musculus/dna/Mus_musculus.GRCm39.dna.primary_assembly.fa.gz"
+    }
+  },
+  "procavia_capensis": {
+    "release": 112,
+    "assembly": "proCap1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/procavia_capensis/dna/Procavia_capensis.proCap1.dna.toplevel.fa.gz"
     }
   },
   "accipiter_nisus": {
     "release": 112,
     "assembly": "Accipiter_nisus_ver1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/accipiter_nisus/dna/accipiter_nisus.Accipiter_nisus_ver1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/accipiter_nisus/dna/Accipiter_nisus.Accipiter_nisus_ver1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "oncorhynchus_kisutch": {
+    "release": 112,
+    "assembly": "Okis_V2",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/oncorhynchus_kisutch/dna/Oncorhynchus_kisutch.Okis_V2.dna.toplevel.fa.gz"
     }
   },
   "pelusios_castaneus": {
     "release": 112,
     "assembly": "Pelusios_castaneus-1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/pelusios_castaneus/dna/pelusios_castaneus.Pelusios_castaneus-1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/pelusios_castaneus/dna/Pelusios_castaneus.Pelusios_castaneus-1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "salmo_salar_gca923944775v1": {
+    "release": 112,
+    "assembly": "Ssal_Brian_v1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/salmo_salar_gca923944775v1/dna/Salmo_salar_gca923944775v1.Ssal_Brian_v1.0.dna.toplevel.fa.gz"
     }
   },
   "dromaius_novaehollandiae": {
     "release": 112,
     "assembly": "droNov1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/dromaius_novaehollandiae/dna/dromaius_novaehollandiae.droNov1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/dromaius_novaehollandiae/dna/Dromaius_novaehollandiae.droNov1.dna.toplevel.fa.gz"
+    }
+  },
+  "sinocyclocheilus_anshuiensis": {
+    "release": 112,
+    "assembly": "SAMN03320099.WGS_v1.1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/sinocyclocheilus_anshuiensis/dna/Sinocyclocheilus_anshuiensis.SAMN03320099.WGS_v1.1.dna.toplevel.fa.gz"
     }
   },
   "junco_hyemalis": {
     "release": 112,
     "assembly": "ASM382977v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/junco_hyemalis/dna/junco_hyemalis.ASM382977v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/junco_hyemalis/dna/Junco_hyemalis.ASM382977v1.dna.toplevel.fa.gz"
+    }
+  },
+  "strigops_habroptila": {
+    "release": 112,
+    "assembly": "bStrHab1_v1.p",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/strigops_habroptila/dna/Strigops_habroptila.bStrHab1_v1.p.dna.toplevel.fa.gz"
     }
   },
   "bos_indicus_hybrid": {
     "release": 112,
     "assembly": "UOA_Brahman_1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/bos_indicus_hybrid/dna/bos_indicus_hybrid.UOA_Brahman_1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/bos_indicus_hybrid/dna/Bos_indicus_hybrid.UOA_Brahman_1.dna.toplevel.fa.gz"
+    }
+  },
+  "fukomys_damarensis": {
+    "release": 112,
+    "assembly": "DMR_v1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/fukomys_damarensis/dna/Fukomys_damarensis.DMR_v1.0.dna.toplevel.fa.gz"
     }
   },
   "felis_catus": {
     "release": 112,
     "assembly": "Felis_catus_9.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/felis_catus/dna/felis_catus.Felis_catus_9.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/felis_catus/dna/Felis_catus.Felis_catus_9.0.dna.toplevel.fa.gz"
+    }
+  },
+  "maylandia_zebra": {
+    "release": 112,
+    "assembly": "M_zebra_UMD2a",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/maylandia_zebra/dna/Maylandia_zebra.M_zebra_UMD2a.dna.toplevel.fa.gz"
     }
   },
   "camarhynchus_parvulus": {
     "release": 112,
     "assembly": "Camarhynchus_parvulus_V1.1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/camarhynchus_parvulus/dna/camarhynchus_parvulus.Camarhynchus_parvulus_V1.1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/camarhynchus_parvulus/dna/Camarhynchus_parvulus.Camarhynchus_parvulus_V1.1.dna.toplevel.fa.gz"
+    }
+  },
+  "canis_lupus_familiarisgsd": {
+    "release": 112,
+    "assembly": "UU_Cfam_GSD_1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/canis_lupus_familiarisgsd/dna/Canis_lupus_familiarisgsd.UU_Cfam_GSD_1.0.dna.toplevel.fa.gz"
     }
   },
   "canis_lupus_familiarisbasenji": {
     "release": 112,
     "assembly": "Basenji_breed-1.1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/canis_lupus_familiarisbasenji/dna/canis_lupus_familiarisbasenji.Basenji_breed-1.1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/canis_lupus_familiarisbasenji/dna/Canis_lupus_familiarisbasenji.Basenji_breed-1.1.dna.toplevel.fa.gz"
+    }
+  },
+  "camelus_dromedarius": {
+    "release": 112,
+    "assembly": "CamDro2",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/camelus_dromedarius/dna/Camelus_dromedarius.CamDro2.dna.toplevel.fa.gz"
     }
   },
   "astatotilapia_calliptera": {
     "release": 112,
     "assembly": "fAstCal1.3",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/astatotilapia_calliptera/dna/astatotilapia_calliptera.fAstCal1.3.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/astatotilapia_calliptera/dna/Astatotilapia_calliptera.fAstCal1.3.dna.toplevel.fa.gz"
+    }
+  },
+  "pseudonaja_textilis": {
+    "release": 112,
+    "assembly": "EBS10Xv2-PRI",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/pseudonaja_textilis/dna/Pseudonaja_textilis.EBS10Xv2-PRI.dna.toplevel.fa.gz"
     }
   },
   "pan_paniscus": {
     "release": 112,
     "assembly": "panpan1.1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/pan_paniscus/dna/pan_paniscus.panpan1.1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/pan_paniscus/dna/Pan_paniscus.panpan1.1.dna.toplevel.fa.gz"
+    }
+  },
+  "canis_lupus_familiaris": {
+    "release": 112,
+    "assembly": "ROS_Cfam_1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/canis_lupus_familiaris/dna/Canis_lupus_familiaris.ROS_Cfam_1.0.dna.toplevel.fa.gz"
     }
   },
   "aotus_nancymaae": {
     "release": 112,
     "assembly": "Anan_2.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/aotus_nancymaae/dna/aotus_nancymaae.Anan_2.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/aotus_nancymaae/dna/Aotus_nancymaae.Anan_2.0.dna.toplevel.fa.gz"
+    }
+  },
+  "bos_grunniens": {
+    "release": 112,
+    "assembly": "LU_Bosgru_v3.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/bos_grunniens/dna/Bos_grunniens.LU_Bosgru_v3.0.dna.toplevel.fa.gz"
     }
   },
   "neolamprologus_brichardi": {
     "release": 112,
     "assembly": "NeoBri1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/neolamprologus_brichardi/dna/neolamprologus_brichardi.NeoBri1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/neolamprologus_brichardi/dna/Neolamprologus_brichardi.NeoBri1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "apteryx_haastii": {
+    "release": 112,
+    "assembly": "aptHaa1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/apteryx_haastii/dna/Apteryx_haastii.aptHaa1.dna.toplevel.fa.gz"
     }
   },
   "mus_musculus_nodshiltj": {
     "release": 112,
     "assembly": "NOD_ShiLtJ_v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/mus_musculus_nodshiltj/dna/mus_musculus_nodshiltj.NOD_ShiLtJ_v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/mus_musculus_nodshiltj/dna/Mus_musculus_nodshiltj.NOD_ShiLtJ_v1.dna.toplevel.fa.gz"
+    }
+  },
+  "mus_musculus_wsbeij": {
+    "release": 112,
+    "assembly": "WSB_EiJ_v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/mus_musculus_wsbeij/dna/Mus_musculus_wsbeij.WSB_EiJ_v1.dna.toplevel.fa.gz"
     }
   },
   "latimeria_chalumnae": {
     "release": 112,
     "assembly": "LatCha1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/latimeria_chalumnae/dna/latimeria_chalumnae.LatCha1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/latimeria_chalumnae/dna/Latimeria_chalumnae.LatCha1.dna.toplevel.fa.gz"
+    }
+  },
+  "ornithorhynchus_anatinus": {
+    "release": 112,
+    "assembly": "mOrnAna1.p.v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/ornithorhynchus_anatinus/dna/Ornithorhynchus_anatinus.mOrnAna1.p.v1.dna.toplevel.fa.gz"
     }
   },
   "canis_lupus_dingo": {
     "release": 112,
     "assembly": "ASM325472v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/canis_lupus_dingo/dna/canis_lupus_dingo.ASM325472v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/canis_lupus_dingo/dna/Canis_lupus_dingo.ASM325472v1.dna.toplevel.fa.gz"
+    }
+  },
+  "capra_hircus": {
+    "release": 112,
+    "assembly": "ARS1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/capra_hircus/dna/Capra_hircus.ARS1.dna.toplevel.fa.gz"
     }
   },
   "erpetoichthys_calabaricus": {
     "release": 112,
     "assembly": "fErpCal1.1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/erpetoichthys_calabaricus/dna/erpetoichthys_calabaricus.fErpCal1.1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/erpetoichthys_calabaricus/dna/Erpetoichthys_calabaricus.fErpCal1.1.dna.toplevel.fa.gz"
+    }
+  },
+  "castor_canadensis": {
+    "release": 112,
+    "assembly": "C.can_genome_v1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/castor_canadensis/dna/Castor_canadensis.C.can_genome_v1.0.dna.toplevel.fa.gz"
     }
   },
   "cricetulus_griseus_crigri": {
     "release": 112,
     "assembly": "CriGri_1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/cricetulus_griseus_crigri/dna/cricetulus_griseus_crigri.CriGri_1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/cricetulus_griseus_crigri/dna/Cricetulus_griseus_crigri.CriGri_1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "vicugna_pacos": {
+    "release": 112,
+    "assembly": "vicPac1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/vicugna_pacos/dna/Vicugna_pacos.vicPac1.dna.toplevel.fa.gz"
     }
   },
   "zonotrichia_albicollis": {
     "release": 112,
     "assembly": "Zonotrichia_albicollis-1.0.1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/zonotrichia_albicollis/dna/zonotrichia_albicollis.Zonotrichia_albicollis-1.0.1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/zonotrichia_albicollis/dna/Zonotrichia_albicollis.Zonotrichia_albicollis-1.0.1.dna.toplevel.fa.gz"
+    }
+  },
+  "podarcis_muralis": {
+    "release": 112,
+    "assembly": "PodMur_1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/podarcis_muralis/dna/Podarcis_muralis.PodMur_1.0.dna.toplevel.fa.gz"
     }
   },
   "cebus_imitator": {
     "release": 112,
     "assembly": "Cebus_imitator-1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/cebus_imitator/dna/cebus_imitator.Cebus_imitator-1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/cebus_imitator/dna/Cebus_imitator.Cebus_imitator-1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "cyprinus_carpio_huanghe": {
+    "release": 112,
+    "assembly": "Hunaghe_carp_2.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/cyprinus_carpio_huanghe/dna/Cyprinus_carpio_huanghe.Hunaghe_carp_2.0.dna.toplevel.fa.gz"
     }
   },
   "sus_scrofa_usmarc": {
     "release": 112,
     "assembly": "USMARCv1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/sus_scrofa_usmarc/dna/sus_scrofa_usmarc.USMARCv1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/sus_scrofa_usmarc/dna/Sus_scrofa_usmarc.USMARCv1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "macaca_fascicularis": {
+    "release": 112,
+    "assembly": "Macaca_fascicularis_6.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/macaca_fascicularis/dna/Macaca_fascicularis.Macaca_fascicularis_6.0.dna.toplevel.fa.gz"
     }
   },
   "ursus_maritimus": {
     "release": 112,
     "assembly": "UrsMar_1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/ursus_maritimus/dna/ursus_maritimus.UrsMar_1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/ursus_maritimus/dna/Ursus_maritimus.UrsMar_1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "monodelphis_domestica": {
+    "release": 112,
+    "assembly": "ASM229v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/monodelphis_domestica/dna/Monodelphis_domestica.ASM229v1.dna.toplevel.fa.gz"
     }
   },
   "haplochromis_burtoni": {
     "release": 112,
     "assembly": "AstBur1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/haplochromis_burtoni/dna/haplochromis_burtoni.AstBur1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/haplochromis_burtoni/dna/Haplochromis_burtoni.AstBur1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "sus_scrofa_wuzhishan": {
+    "release": 112,
+    "assembly": "minipig_v1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/sus_scrofa_wuzhishan/dna/Sus_scrofa_wuzhishan.minipig_v1.0.dna.toplevel.fa.gz"
     }
   },
   "anas_zonorhyncha": {
     "release": 112,
     "assembly": "ASM222487v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/anas_zonorhyncha/dna/anas_zonorhyncha.ASM222487v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/anas_zonorhyncha/dna/Anas_zonorhyncha.ASM222487v1.dna.toplevel.fa.gz"
+    }
+  },
+  "ictidomys_tridecemlineatus": {
+    "release": 112,
+    "assembly": "SpeTri2.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/ictidomys_tridecemlineatus/dna/Ictidomys_tridecemlineatus.SpeTri2.0.dna.toplevel.fa.gz"
     }
   },
   "peromyscus_maniculatus_bairdii": {
     "release": 112,
     "assembly": "HU_Pman_2.1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/peromyscus_maniculatus_bairdii/dna/peromyscus_maniculatus_bairdii.HU_Pman_2.1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/peromyscus_maniculatus_bairdii/dna/Peromyscus_maniculatus_bairdii.HU_Pman_2.1.dna.toplevel.fa.gz"
+    }
+  },
+  "sus_scrofa_pietrain": {
+    "release": 112,
+    "assembly": "Pietrain_pig_v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/sus_scrofa_pietrain/dna/Sus_scrofa_pietrain.Pietrain_pig_v1.dna.toplevel.fa.gz"
     }
   },
   "equus_caballus": {
     "release": 112,
     "assembly": "EquCab3.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/equus_caballus/dna/equus_caballus.EquCab3.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/equus_caballus/dna/Equus_caballus.EquCab3.0.dna.toplevel.fa.gz"
+    }
+  },
+  "mastacembelus_armatus": {
+    "release": 112,
+    "assembly": "fMasArm1.2",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/mastacembelus_armatus/dna/Mastacembelus_armatus.fMasArm1.2.dna.toplevel.fa.gz"
     }
   },
   "cyprinus_carpio_carpio": {
     "release": 112,
     "assembly": "Cypcar_WagV4.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/cyprinus_carpio_carpio/dna/cyprinus_carpio_carpio.Cypcar_WagV4.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/cyprinus_carpio_carpio/dna/Cyprinus_carpio_carpio.Cypcar_WagV4.0.dna.toplevel.fa.gz"
+    }
+  },
+  "colobus_angolensis_palliatus": {
+    "release": 112,
+    "assembly": "Cang.pa_1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/colobus_angolensis_palliatus/dna/Colobus_angolensis_palliatus.Cang.pa_1.0.dna.toplevel.fa.gz"
     }
   },
   "bos_mutus": {
     "release": 112,
     "assembly": "BosGru_v2.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/bos_mutus/dna/bos_mutus.BosGru_v2.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/bos_mutus/dna/Bos_mutus.BosGru_v2.0.dna.toplevel.fa.gz"
+    }
+  },
+  "ursus_thibetanus_thibetanus": {
+    "release": 112,
+    "assembly": "ASM966005v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/ursus_thibetanus_thibetanus/dna/Ursus_thibetanus_thibetanus.ASM966005v1.dna.toplevel.fa.gz"
     }
   },
   "sinocyclocheilus_grahami": {
     "release": 112,
     "assembly": "SAMN03320097.WGS_v1.1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/sinocyclocheilus_grahami/dna/sinocyclocheilus_grahami.SAMN03320097.WGS_v1.1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/sinocyclocheilus_grahami/dna/Sinocyclocheilus_grahami.SAMN03320097.WGS_v1.1.dna.toplevel.fa.gz"
+    }
+  },
+  "sus_scrofa_landrace": {
+    "release": 112,
+    "assembly": "Landrace_pig_v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/sus_scrofa_landrace/dna/Sus_scrofa_landrace.Landrace_pig_v1.dna.toplevel.fa.gz"
     }
   },
   "ailuropoda_melanoleuca": {
     "release": 112,
     "assembly": "ASM200744v2",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/ailuropoda_melanoleuca/dna/ailuropoda_melanoleuca.ASM200744v2.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/ailuropoda_melanoleuca/dna/Ailuropoda_melanoleuca.ASM200744v2.dna.toplevel.fa.gz"
+    }
+  },
+  "oncorhynchus_tshawytscha": {
+    "release": 112,
+    "assembly": "Otsh_v2.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/oncorhynchus_tshawytscha/dna/Oncorhynchus_tshawytscha.Otsh_v2.0.dna.toplevel.fa.gz"
     }
   },
   "oreochromis_aureus": {
     "release": 112,
     "assembly": "ZZ_aureus",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/oreochromis_aureus/dna/oreochromis_aureus.ZZ_aureus.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/oreochromis_aureus/dna/Oreochromis_aureus.ZZ_aureus.dna.toplevel.fa.gz"
+    }
+  },
+  "paramormyrops_kingsleyae": {
+    "release": 112,
+    "assembly": "PKINGS_0.1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/paramormyrops_kingsleyae/dna/Paramormyrops_kingsleyae.PKINGS_0.1.dna.toplevel.fa.gz"
     }
   },
   "erythrura_gouldiae": {
     "release": 112,
     "assembly": "GouldianFinch",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/erythrura_gouldiae/dna/erythrura_gouldiae.GouldianFinch.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/erythrura_gouldiae/dna/Erythrura_gouldiae.GouldianFinch.dna.toplevel.fa.gz"
+    }
+  },
+  "notechis_scutatus": {
+    "release": 112,
+    "assembly": "TS10Xv2-PRI",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/notechis_scutatus/dna/Notechis_scutatus.TS10Xv2-PRI.dna.toplevel.fa.gz"
     }
   },
   "bos_taurus": {
     "release": 112,
     "assembly": "ARS-UCD1.3",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/bos_taurus/dna/bos_taurus.ARS-UCD1.3.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/bos_taurus/dna/Bos_taurus.ARS-UCD1.3.dna.toplevel.fa.gz"
+    }
+  },
+  "amazona_collaria": {
+    "release": 112,
+    "assembly": "ASM394721v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/amazona_collaria/dna/Amazona_collaria.ASM394721v1.dna.toplevel.fa.gz"
     }
   },
   "cavia_porcellus": {
     "release": 112,
     "assembly": "Cavpor3.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/cavia_porcellus/dna/cavia_porcellus.Cavpor3.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/cavia_porcellus/dna/Cavia_porcellus.Cavpor3.0.dna.toplevel.fa.gz"
+    }
+  },
+  "rattus_norvegicus_wkybbb": {
+    "release": 112,
+    "assembly": "UTH_Rnor_WKY_Bbb_1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/rattus_norvegicus_wkybbb/dna/Rattus_norvegicus_wkybbb.UTH_Rnor_WKY_Bbb_1.0.dna.toplevel.fa.gz"
     }
   },
   "calidris_pygmaea": {
     "release": 112,
     "assembly": "ASM369795v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/calidris_pygmaea/dna/calidris_pygmaea.ASM369795v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/calidris_pygmaea/dna/Calidris_pygmaea.ASM369795v1.dna.toplevel.fa.gz"
+    }
+  },
+  "myotis_lucifugus": {
+    "release": 112,
+    "assembly": "Myoluc2.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/myotis_lucifugus/dna/Myotis_lucifugus.Myoluc2.0.dna.toplevel.fa.gz"
     }
   },
   "parus_major": {
     "release": 112,
     "assembly": "Parus_major1.1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/parus_major/dna/parus_major.Parus_major1.1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/parus_major/dna/Parus_major.Parus_major1.1.dna.toplevel.fa.gz"
+    }
+  },
+  "salmo_trutta": {
+    "release": 112,
+    "assembly": "fSalTru1.1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/salmo_trutta/dna/Salmo_trutta.fSalTru1.1.dna.toplevel.fa.gz"
     }
   },
   "bison_bison_bison": {
     "release": 112,
     "assembly": "Bison_UMD1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/bison_bison_bison/dna/bison_bison_bison.Bison_UMD1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/bison_bison_bison/dna/Bison_bison_bison.Bison_UMD1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "callithrix_jacchus": {
+    "release": 112,
+    "assembly": "mCalJac1.pat.X",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/callithrix_jacchus/dna/Callithrix_jacchus.mCalJac1.pat.X.dna.toplevel.fa.gz"
     }
   },
   "apteryx_owenii": {
     "release": 112,
     "assembly": "aptOwe1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/apteryx_owenii/dna/apteryx_owenii.aptOwe1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/apteryx_owenii/dna/Apteryx_owenii.aptOwe1.dna.toplevel.fa.gz"
+    }
+  },
+  "melopsittacus_undulatus": {
+    "release": 112,
+    "assembly": "bMelUnd1.mat.Z",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/melopsittacus_undulatus/dna/Melopsittacus_undulatus.bMelUnd1.mat.Z.dna.toplevel.fa.gz"
     }
   },
   "varanus_komodoensis": {
     "release": 112,
     "assembly": "ASM479886v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/varanus_komodoensis/dna/varanus_komodoensis.ASM479886v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/varanus_komodoensis/dna/Varanus_komodoensis.ASM479886v1.dna.toplevel.fa.gz"
+    }
+  },
+  "anabas_testudineus": {
+    "release": 112,
+    "assembly": "fAnaTes1.3",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/anabas_testudineus/dna/Anabas_testudineus.fAnaTes1.3.dna.toplevel.fa.gz"
     }
   },
   "gadus_morhua_gca010882105v1": {
     "release": 112,
     "assembly": "gadMor_Celtic",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/gadus_morhua_gca010882105v1/dna/gadus_morhua_gca010882105v1.gadMor_Celtic.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/gadus_morhua_gca010882105v1/dna/Gadus_morhua_gca010882105v1.gadMor_Celtic.dna.toplevel.fa.gz"
+    }
+  },
+  "poecilia_latipinna": {
+    "release": 112,
+    "assembly": "P_latipinna-1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/poecilia_latipinna/dna/Poecilia_latipinna.P_latipinna-1.0.dna.toplevel.fa.gz"
     }
   },
   "parambassis_ranga": {
     "release": 112,
     "assembly": "fParRan2.2",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/parambassis_ranga/dna/parambassis_ranga.fParRan2.2.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/parambassis_ranga/dna/Parambassis_ranga.fParRan2.2.dna.toplevel.fa.gz"
+    }
+  },
+  "nothobranchius_furzeri": {
+    "release": 112,
+    "assembly": "Nfu_20140520",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/nothobranchius_furzeri/dna/Nothobranchius_furzeri.Nfu_20140520.dna.toplevel.fa.gz"
     }
   },
   "sus_scrofa_bamei": {
     "release": 112,
     "assembly": "Bamei_pig_v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/sus_scrofa_bamei/dna/sus_scrofa_bamei.Bamei_pig_v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/sus_scrofa_bamei/dna/Sus_scrofa_bamei.Bamei_pig_v1.dna.toplevel.fa.gz"
+    }
+  },
+  "labrus_bergylta": {
+    "release": 112,
+    "assembly": "BallGen_V1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/labrus_bergylta/dna/Labrus_bergylta.BallGen_V1.dna.toplevel.fa.gz"
     }
   },
   "myripristis_murdjan": {
     "release": 112,
     "assembly": "fMyrMur1.1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/myripristis_murdjan/dna/myripristis_murdjan.fMyrMur1.1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/myripristis_murdjan/dna/Myripristis_murdjan.fMyrMur1.1.dna.toplevel.fa.gz"
+    }
+  },
+  "pongo_abelii": {
+    "release": 112,
+    "assembly": "Susie_PABv2",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/pongo_abelii/dna/Pongo_abelii.Susie_PABv2.dna.toplevel.fa.gz"
     }
   },
   "leptobrachium_leishanense": {
     "release": 112,
     "assembly": "ASM966780v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/leptobrachium_leishanense/dna/leptobrachium_leishanense.ASM966780v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/leptobrachium_leishanense/dna/Leptobrachium_leishanense.ASM966780v1.dna.toplevel.fa.gz"
+    }
+  },
+  "nomascus_leucogenys": {
+    "release": 112,
+    "assembly": "Nleu_3.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/nomascus_leucogenys/dna/Nomascus_leucogenys.Nleu_3.0.dna.toplevel.fa.gz"
     }
   },
   "xenopus_tropicalis": {
     "release": 112,
     "assembly": "UCB_Xtro_10.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/xenopus_tropicalis/dna/xenopus_tropicalis.UCB_Xtro_10.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/xenopus_tropicalis/dna/Xenopus_tropicalis.UCB_Xtro_10.0.dna.toplevel.fa.gz"
+    }
+  },
+  "sparus_aurata": {
+    "release": 112,
+    "assembly": "fSpaAur1.1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/sparus_aurata/dna/Sparus_aurata.fSpaAur1.1.dna.toplevel.fa.gz"
     }
   },
   "pelodiscus_sinensis": {
     "release": 112,
     "assembly": "PelSin_1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/pelodiscus_sinensis/dna/pelodiscus_sinensis.PelSin_1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/pelodiscus_sinensis/dna/Pelodiscus_sinensis.PelSin_1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "cervus_hanglu_yarkandensis": {
+    "release": 112,
+    "assembly": "CEY_v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/cervus_hanglu_yarkandensis/dna/Cervus_hanglu_yarkandensis.CEY_v1.dna.toplevel.fa.gz"
     }
   },
   "gopherus_agassizii": {
     "release": 112,
     "assembly": "ASM289641v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/gopherus_agassizii/dna/gopherus_agassizii.ASM289641v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/gopherus_agassizii/dna/Gopherus_agassizii.ASM289641v1.dna.toplevel.fa.gz"
+    }
+  },
+  "anser_cygnoides": {
+    "release": 112,
+    "assembly": "GooseV1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/anser_cygnoides/dna/Anser_cygnoides.GooseV1.0.dna.toplevel.fa.gz"
     }
   },
   "panthera_leo": {
     "release": 112,
     "assembly": "PanLeo1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/panthera_leo/dna/panthera_leo.PanLeo1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/panthera_leo/dna/Panthera_leo.PanLeo1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "phascolarctos_cinereus": {
+    "release": 112,
+    "assembly": "phaCin_unsw_v4.1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/phascolarctos_cinereus/dna/Phascolarctos_cinereus.phaCin_unsw_v4.1.dna.toplevel.fa.gz"
     }
   },
   "sinocyclocheilus_rhinocerous": {
     "release": 112,
     "assembly": "SAMN03320098_v1.1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/sinocyclocheilus_rhinocerous/dna/sinocyclocheilus_rhinocerous.SAMN03320098_v1.1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/sinocyclocheilus_rhinocerous/dna/Sinocyclocheilus_rhinocerous.SAMN03320098_v1.1.dna.toplevel.fa.gz"
+    }
+  },
+  "cricetulus_griseus_chok1gshd": {
+    "release": 112,
+    "assembly": "CHOK1GS_HDv1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/cricetulus_griseus_chok1gshd/dna/Cricetulus_griseus_chok1gshd.CHOK1GS_HDv1.dna.toplevel.fa.gz"
     }
   },
   "gallus_gallus_gca016700215v2": {
     "release": 112,
     "assembly": "bGalGal1.pat.whiteleghornlayer.GRCg7w",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/gallus_gallus_gca016700215v2/dna/gallus_gallus_gca016700215v2.bGalGal1.pat.whiteleghornlayer.GRCg7w.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/gallus_gallus_gca016700215v2/dna/Gallus_gallus_gca016700215v2.bGalGal1.pat.whiteleghornlayer.GRCg7w.dna.toplevel.fa.gz"
+    }
+  },
+  "ochotona_princeps": {
+    "release": 112,
+    "assembly": "OchPri2.0-Ens",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/ochotona_princeps/dna/Ochotona_princeps.OchPri2.0-Ens.dna.toplevel.fa.gz"
     }
   },
   "spermophilus_dauricus": {
     "release": 112,
     "assembly": "ASM240643v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/spermophilus_dauricus/dna/spermophilus_dauricus.ASM240643v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/spermophilus_dauricus/dna/Spermophilus_dauricus.ASM240643v1.dna.toplevel.fa.gz"
+    }
+  },
+  "sus_scrofa_tibetan": {
+    "release": 112,
+    "assembly": "Tibetan_Pig_v2",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/sus_scrofa_tibetan/dna/Sus_scrofa_tibetan.Tibetan_Pig_v2.dna.toplevel.fa.gz"
     }
   },
   "dicentrarchus_labrax": {
     "release": 112,
     "assembly": "dlabrax2021",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/dicentrarchus_labrax/dna/dicentrarchus_labrax.dlabrax2021.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/dicentrarchus_labrax/dna/Dicentrarchus_labrax.dlabrax2021.dna.toplevel.fa.gz"
+    }
+  },
+  "denticeps_clupeoides": {
+    "release": 112,
+    "assembly": "fDenClu1.2",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/denticeps_clupeoides/dna/Denticeps_clupeoides.fDenClu1.2.dna.toplevel.fa.gz"
     }
   },
   "microcebus_murinus": {
     "release": 112,
     "assembly": "Mmur_3.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/microcebus_murinus/dna/microcebus_murinus.Mmur_3.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/microcebus_murinus/dna/Microcebus_murinus.Mmur_3.0.dna.toplevel.fa.gz"
+    }
+  },
+  "balaenoptera_musculus": {
+    "release": 112,
+    "assembly": "mBalMus1.v2",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/balaenoptera_musculus/dna/Balaenoptera_musculus.mBalMus1.v2.dna.toplevel.fa.gz"
     }
   },
   "cyclopterus_lumpus": {
     "release": 112,
     "assembly": "fCycLum1.pri",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/cyclopterus_lumpus/dna/cyclopterus_lumpus.fCycLum1.pri.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/cyclopterus_lumpus/dna/Cyclopterus_lumpus.fCycLum1.pri.dna.toplevel.fa.gz"
+    }
+  },
+  "jaculus_jaculus": {
+    "release": 112,
+    "assembly": "JacJac1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/jaculus_jaculus/dna/Jaculus_jaculus.JacJac1.0.dna.toplevel.fa.gz"
     }
   },
   "coturnix_japonica": {
     "release": 112,
     "assembly": "Coturnix_japonica_2.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/coturnix_japonica/dna/coturnix_japonica.Coturnix_japonica_2.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/coturnix_japonica/dna/Coturnix_japonica.Coturnix_japonica_2.0.dna.toplevel.fa.gz"
+    }
+  },
+  "mandrillus_leucophaeus": {
+    "release": 112,
+    "assembly": "Mleu.le_1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/mandrillus_leucophaeus/dna/Mandrillus_leucophaeus.Mleu.le_1.0.dna.toplevel.fa.gz"
     }
   },
   "pundamilia_nyererei": {
     "release": 112,
     "assembly": "PunNye1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/pundamilia_nyererei/dna/pundamilia_nyererei.PunNye1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/pundamilia_nyererei/dna/Pundamilia_nyererei.PunNye1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "kryptolebias_marmoratus": {
+    "release": 112,
+    "assembly": "ASM164957v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/kryptolebias_marmoratus/dna/Kryptolebias_marmoratus.ASM164957v1.dna.toplevel.fa.gz"
     }
   },
   "crocodylus_porosus": {
     "release": 112,
     "assembly": "CroPor_comp1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/crocodylus_porosus/dna/crocodylus_porosus.CroPor_comp1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/crocodylus_porosus/dna/Crocodylus_porosus.CroPor_comp1.dna.toplevel.fa.gz"
+    }
+  },
+  "falco_tinnunculus": {
+    "release": 112,
+    "assembly": "FalTin1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/falco_tinnunculus/dna/Falco_tinnunculus.FalTin1.0.dna.toplevel.fa.gz"
     }
   },
   "gasterosteus_aculeatus": {
     "release": 112,
     "assembly": "GAculeatus_UGA_version5",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/gasterosteus_aculeatus/dna/gasterosteus_aculeatus.GAculeatus_UGA_version5.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/gasterosteus_aculeatus/dna/Gasterosteus_aculeatus.GAculeatus_UGA_version5.dna.toplevel.fa.gz"
+    }
+  },
+  "salmo_salar_gca021399835v1": {
+    "release": 112,
+    "assembly": "USDA_NASsal_1.1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/salmo_salar_gca021399835v1/dna/Salmo_salar_gca021399835v1.USDA_NASsal_1.1.dna.toplevel.fa.gz"
     }
   },
   "gouania_willdenowi": {
     "release": 112,
     "assembly": "fGouWil2.1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/gouania_willdenowi/dna/gouania_willdenowi.fGouWil2.1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/gouania_willdenowi/dna/Gouania_willdenowi.fGouWil2.1.dna.toplevel.fa.gz"
+    }
+  },
+  "octodon_degus": {
+    "release": 112,
+    "assembly": "OctDeg1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/octodon_degus/dna/Octodon_degus.OctDeg1.0.dna.toplevel.fa.gz"
     }
   },
   "monodon_monoceros": {
     "release": 112,
     "assembly": "NGI_Narwhal_1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/monodon_monoceros/dna/monodon_monoceros.NGI_Narwhal_1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/monodon_monoceros/dna/Monodon_monoceros.NGI_Narwhal_1.dna.toplevel.fa.gz"
+    }
+  },
+  "gallus_gallus_gca000002315v5": {
+    "release": 112,
+    "assembly": "GRCg6a",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/gallus_gallus_gca000002315v5/dna/Gallus_gallus_gca000002315v5.GRCg6a.dna.toplevel.fa.gz"
     }
   },
   "microtus_ochrogaster": {
     "release": 112,
     "assembly": "MicOch1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/microtus_ochrogaster/dna/microtus_ochrogaster.MicOch1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/microtus_ochrogaster/dna/Microtus_ochrogaster.MicOch1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "phocoena_sinus": {
+    "release": 112,
+    "assembly": "mPhoSin1.pri",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/phocoena_sinus/dna/Phocoena_sinus.mPhoSin1.pri.dna.toplevel.fa.gz"
     }
   },
   "aquila_chrysaetos_chrysaetos": {
     "release": 112,
     "assembly": "bAquChr1.2",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/aquila_chrysaetos_chrysaetos/dna/aquila_chrysaetos_chrysaetos.bAquChr1.2.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/aquila_chrysaetos_chrysaetos/dna/Aquila_chrysaetos_chrysaetos.bAquChr1.2.dna.toplevel.fa.gz"
+    }
+  },
+  "rhinopithecus_roxellana": {
+    "release": 112,
+    "assembly": "Rrox_v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/rhinopithecus_roxellana/dna/Rhinopithecus_roxellana.Rrox_v1.dna.toplevel.fa.gz"
     }
   },
   "buteo_japonicus": {
     "release": 112,
     "assembly": "ButJap1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/buteo_japonicus/dna/buteo_japonicus.ButJap1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/buteo_japonicus/dna/Buteo_japonicus.ButJap1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "athene_cunicularia": {
+    "release": 112,
+    "assembly": "athCun1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/athene_cunicularia/dna/Athene_cunicularia.athCun1.dna.toplevel.fa.gz"
     }
   },
   "pan_troglodytes": {
     "release": 112,
     "assembly": "Pan_tro_3.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/pan_troglodytes/dna/pan_troglodytes.Pan_tro_3.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/pan_troglodytes/dna/Pan_troglodytes.Pan_tro_3.0.dna.toplevel.fa.gz"
+    }
+  },
+  "meleagris_gallopavo": {
+    "release": 112,
+    "assembly": "Turkey_5.1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/meleagris_gallopavo/dna/Meleagris_gallopavo.Turkey_5.1.dna.toplevel.fa.gz"
     }
   },
   "stachyris_ruficeps": {
     "release": 112,
     "assembly": "ASM869450v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/stachyris_ruficeps/dna/stachyris_ruficeps.ASM869450v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/stachyris_ruficeps/dna/Stachyris_ruficeps.ASM869450v1.dna.toplevel.fa.gz"
+    }
+  },
+  "notamacropus_eugenii": {
+    "release": 112,
+    "assembly": "Meug_1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/notamacropus_eugenii/dna/Notamacropus_eugenii.Meug_1.0.dna.toplevel.fa.gz"
     }
   },
   "caenorhabditis_elegans": {
     "release": 112,
     "assembly": "WBcel235",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/caenorhabditis_elegans/dna/caenorhabditis_elegans.WBcel235.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/caenorhabditis_elegans/dna/Caenorhabditis_elegans.WBcel235.dna.toplevel.fa.gz"
+    }
+  },
+  "periophthalmus_magnuspinnatus": {
+    "release": 112,
+    "assembly": "PM.fa",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/periophthalmus_magnuspinnatus/dna/Periophthalmus_magnuspinnatus.PM.fa.dna.toplevel.fa.gz"
     }
   },
   "sphenodon_punctatus": {
     "release": 112,
     "assembly": "ASM311381v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/sphenodon_punctatus/dna/sphenodon_punctatus.ASM311381v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/sphenodon_punctatus/dna/Sphenodon_punctatus.ASM311381v1.dna.toplevel.fa.gz"
+    }
+  },
+  "chrysolophus_pictus": {
+    "release": 112,
+    "assembly": "Chrysolophus_pictus_GenomeV1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/chrysolophus_pictus/dna/Chrysolophus_pictus.Chrysolophus_pictus_GenomeV1.0.dna.toplevel.fa.gz"
     }
   },
   "amphiprion_ocellaris": {
     "release": 112,
     "assembly": "ASM2253959v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/amphiprion_ocellaris/dna/amphiprion_ocellaris.ASM2253959v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/amphiprion_ocellaris/dna/Amphiprion_ocellaris.ASM2253959v1.dna.toplevel.fa.gz"
+    }
+  },
+  "ficedula_albicollis": {
+    "release": 112,
+    "assembly": "FicAlb1.5",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/ficedula_albicollis/dna/Ficedula_albicollis.FicAlb1.5.dna.toplevel.fa.gz"
     }
   },
   "rhinopithecus_bieti": {
     "release": 112,
     "assembly": "ASM169854v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/rhinopithecus_bieti/dna/rhinopithecus_bieti.ASM169854v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/rhinopithecus_bieti/dna/Rhinopithecus_bieti.ASM169854v1.dna.toplevel.fa.gz"
+    }
+  },
+  "saccharomyces_cerevisiae": {
+    "release": 112,
+    "assembly": "R64-1-1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/saccharomyces_cerevisiae/dna/Saccharomyces_cerevisiae.R64-1-1.dna.toplevel.fa.gz"
     }
   },
   "delphinapterus_leucas": {
     "release": 112,
     "assembly": "ASM228892v3",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/delphinapterus_leucas/dna/delphinapterus_leucas.ASM228892v3.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/delphinapterus_leucas/dna/Delphinapterus_leucas.ASM228892v3.dna.toplevel.fa.gz"
+    }
+  },
+  "mus_musculus_casteij": {
+    "release": 112,
+    "assembly": "CAST_EiJ_v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/mus_musculus_casteij/dna/Mus_musculus_casteij.CAST_EiJ_v1.dna.toplevel.fa.gz"
     }
   },
   "anas_platyrhynchos_platyrhynchos": {
     "release": 112,
     "assembly": "CAU_duck1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/anas_platyrhynchos_platyrhynchos/dna/anas_platyrhynchos_platyrhynchos.CAU_duck1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/anas_platyrhynchos_platyrhynchos/dna/Anas_platyrhynchos_platyrhynchos.CAU_duck1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "otolemur_garnettii": {
+    "release": 112,
+    "assembly": "OtoGar3",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/otolemur_garnettii/dna/Otolemur_garnettii.OtoGar3.dna.toplevel.fa.gz"
     }
   },
   "struthio_camelus_australis": {
     "release": 112,
     "assembly": "ASM69896v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/struthio_camelus_australis/dna/struthio_camelus_australis.ASM69896v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/struthio_camelus_australis/dna/Struthio_camelus_australis.ASM69896v1.dna.toplevel.fa.gz"
+    }
+  },
+  "nothoprocta_perdicaria": {
+    "release": 112,
+    "assembly": "notPer1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/nothoprocta_perdicaria/dna/Nothoprocta_perdicaria.notPer1.dna.toplevel.fa.gz"
     }
   },
   "canis_lupus_familiarisgreatdane": {
     "release": 112,
     "assembly": "UMICH_Zoey_3.1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/canis_lupus_familiarisgreatdane/dna/canis_lupus_familiarisgreatdane.UMICH_Zoey_3.1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/canis_lupus_familiarisgreatdane/dna/Canis_lupus_familiarisgreatdane.UMICH_Zoey_3.1.dna.toplevel.fa.gz"
+    }
+  },
+  "sphaeramia_orbicularis": {
+    "release": 112,
+    "assembly": "fSphaOr1.1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/sphaeramia_orbicularis/dna/Sphaeramia_orbicularis.fSphaOr1.1.dna.toplevel.fa.gz"
     }
   },
   "oryzias_sinensis": {
     "release": 112,
     "assembly": "ASM858656v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/oryzias_sinensis/dna/oryzias_sinensis.ASM858656v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/oryzias_sinensis/dna/Oryzias_sinensis.ASM858656v1.dna.toplevel.fa.gz"
+    }
+  },
+  "eptatretus_burgeri": {
+    "release": 112,
+    "assembly": "Eburgeri_3.2",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/eptatretus_burgeri/dna/Eptatretus_burgeri.Eburgeri_3.2.dna.toplevel.fa.gz"
     }
   },
   "manacus_vitellinus": {
     "release": 112,
     "assembly": "ASM171598v2",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/manacus_vitellinus/dna/manacus_vitellinus.ASM171598v2.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/manacus_vitellinus/dna/Manacus_vitellinus.ASM171598v2.dna.toplevel.fa.gz"
+    }
+  },
+  "theropithecus_gelada": {
+    "release": 112,
+    "assembly": "Tgel_1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/theropithecus_gelada/dna/Theropithecus_gelada.Tgel_1.0.dna.toplevel.fa.gz"
     }
   },
   "zalophus_californianus": {
     "release": 112,
     "assembly": "mZalCal1.pri",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/zalophus_californianus/dna/zalophus_californianus.mZalCal1.pri.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/zalophus_californianus/dna/Zalophus_californianus.mZalCal1.pri.dna.toplevel.fa.gz"
+    }
+  },
+  "mus_musculus_pwkphj": {
+    "release": 112,
+    "assembly": "PWK_PhJ_v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/mus_musculus_pwkphj/dna/Mus_musculus_pwkphj.PWK_PhJ_v1.dna.toplevel.fa.gz"
     }
   },
   "oryctolagus_cuniculus": {
     "release": 112,
     "assembly": "OryCun2.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/oryctolagus_cuniculus/dna/oryctolagus_cuniculus.OryCun2.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/oryctolagus_cuniculus/dna/Oryctolagus_cuniculus.OryCun2.0.dna.toplevel.fa.gz"
+    }
+  },
+  "bos_taurus_hybrid": {
+    "release": 112,
+    "assembly": "UOA_Angus_1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/bos_taurus_hybrid/dna/Bos_taurus_hybrid.UOA_Angus_1.dna.toplevel.fa.gz"
     }
   },
   "apteryx_rowi": {
     "release": 112,
     "assembly": "aptRow1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/apteryx_rowi/dna/apteryx_rowi.aptRow1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/apteryx_rowi/dna/Apteryx_rowi.aptRow1.dna.toplevel.fa.gz"
+    }
+  },
+  "nannospalax_galili": {
+    "release": 112,
+    "assembly": "S.galili_v1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/nannospalax_galili/dna/Nannospalax_galili.S.galili_v1.0.dna.toplevel.fa.gz"
     }
   },
   "terrapene_carolina_triunguis": {
     "release": 112,
     "assembly": "T_m_triunguis-2.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/terrapene_carolina_triunguis/dna/terrapene_carolina_triunguis.T_m_triunguis-2.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/terrapene_carolina_triunguis/dna/Terrapene_carolina_triunguis.T_m_triunguis-2.0.dna.toplevel.fa.gz"
+    }
+  },
+  "clupea_harengus": {
+    "release": 112,
+    "assembly": "Ch_v2.0.2v2",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/clupea_harengus/dna/Clupea_harengus.Ch_v2.0.2v2.dna.toplevel.fa.gz"
     }
   },
   "mus_musculus_fvbnj": {
     "release": 112,
     "assembly": "FVB_NJ_v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/mus_musculus_fvbnj/dna/mus_musculus_fvbnj.FVB_NJ_v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/mus_musculus_fvbnj/dna/Mus_musculus_fvbnj.FVB_NJ_v1.dna.toplevel.fa.gz"
+    }
+  },
+  "saimiri_boliviensis_boliviensis": {
+    "release": 112,
+    "assembly": "SaiBol1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/saimiri_boliviensis_boliviensis/dna/Saimiri_boliviensis_boliviensis.SaiBol1.0.dna.toplevel.fa.gz"
     }
   },
   "catharus_ustulatus": {
     "release": 112,
     "assembly": "bCatUst1.pri",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/catharus_ustulatus/dna/catharus_ustulatus.bCatUst1.pri.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/catharus_ustulatus/dna/Catharus_ustulatus.bCatUst1.pri.dna.toplevel.fa.gz"
+    }
+  },
+  "fundulus_heteroclitus": {
+    "release": 112,
+    "assembly": "Fundulus_heteroclitus-3.0.2",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/fundulus_heteroclitus/dna/Fundulus_heteroclitus.Fundulus_heteroclitus-3.0.2.dna.toplevel.fa.gz"
     }
   },
   "gorilla_gorilla": {
     "release": 112,
     "assembly": "gorGor4",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/gorilla_gorilla/dna/gorilla_gorilla.gorGor4.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/gorilla_gorilla/dna/Gorilla_gorilla.gorGor4.dna.toplevel.fa.gz"
+    }
+  },
+  "rattus_norvegicus_shrutx": {
+    "release": 112,
+    "assembly": "UTH_Rnor_SHR_Utx",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/rattus_norvegicus_shrutx/dna/Rattus_norvegicus_shrutx.UTH_Rnor_SHR_Utx.dna.toplevel.fa.gz"
     }
   },
   "hippocampus_comes": {
     "release": 112,
     "assembly": "H_comes_QL1_v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/hippocampus_comes/dna/hippocampus_comes.H_comes_QL1_v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/hippocampus_comes/dna/Hippocampus_comes.H_comes_QL1_v1.dna.toplevel.fa.gz"
+    }
+  },
+  "sus_scrofa_largewhite": {
+    "release": 112,
+    "assembly": "Large_White_v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/sus_scrofa_largewhite/dna/Sus_scrofa_largewhite.Large_White_v1.dna.toplevel.fa.gz"
     }
   },
   "erinaceus_europaeus": {
     "release": 112,
-    "assembly": "eriEur1",
+    "assembly": "HEDGEHOG",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/erinaceus_europaeus/dna/erinaceus_europaeus.eriEur1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/erinaceus_europaeus/dna/Erinaceus_europaeus.HEDGEHOG.dna.toplevel.fa.gz"
+    }
+  },
+  "sus_scrofa_rongchang": {
+    "release": 112,
+    "assembly": "Rongchang_pig_v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/sus_scrofa_rongchang/dna/Sus_scrofa_rongchang.Rongchang_pig_v1.dna.toplevel.fa.gz"
     }
   },
   "mus_musculus_c3hhej": {
     "release": 112,
     "assembly": "C3H_HeJ_v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/mus_musculus_c3hhej/dna/mus_musculus_c3hhej.C3H_HeJ_v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/mus_musculus_c3hhej/dna/Mus_musculus_c3hhej.C3H_HeJ_v1.dna.toplevel.fa.gz"
+    }
+  },
+  "dipodomys_ordii": {
+    "release": 112,
+    "assembly": "Dord_2.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/dipodomys_ordii/dna/Dipodomys_ordii.Dord_2.0.dna.toplevel.fa.gz"
     }
   },
   "ciona_intestinalis": {
     "release": 112,
     "assembly": "KH",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/ciona_intestinalis/dna/ciona_intestinalis.KH.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/ciona_intestinalis/dna/Ciona_intestinalis.KH.dna.toplevel.fa.gz"
+    }
+  },
+  "acanthochromis_polyacanthus": {
+    "release": 112,
+    "assembly": "ASM210954v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/acanthochromis_polyacanthus/dna/Acanthochromis_polyacanthus.ASM210954v1.dna.toplevel.fa.gz"
     }
   },
   "carlito_syrichta": {
     "release": 112,
     "assembly": "Tarsius_syrichta-2.0.1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/carlito_syrichta/dna/carlito_syrichta.Tarsius_syrichta-2.0.1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/carlito_syrichta/dna/Carlito_syrichta.Tarsius_syrichta-2.0.1.dna.toplevel.fa.gz"
+    }
+  },
+  "salvator_merianae": {
+    "release": 112,
+    "assembly": "HLtupMer3",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/salvator_merianae/dna/Salvator_merianae.HLtupMer3.dna.toplevel.fa.gz"
     }
   },
   "heterocephalus_glaber_female": {
     "release": 112,
     "assembly": "Naked_mole-rat_maternal",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/heterocephalus_glaber_female/dna/heterocephalus_glaber_female.Naked_mole-rat_maternal.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/heterocephalus_glaber_female/dna/Heterocephalus_glaber_female.Naked_mole-rat_maternal.dna.toplevel.fa.gz"
+    }
+  },
+  "oryzias_melastigma": {
+    "release": 112,
+    "assembly": "Om_v0.7.RACA",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/oryzias_melastigma/dna/Oryzias_melastigma.Om_v0.7.RACA.dna.toplevel.fa.gz"
     }
   },
   "stegastes_partitus": {
     "release": 112,
     "assembly": "Stegastes_partitus-1.0.2",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/stegastes_partitus/dna/stegastes_partitus.Stegastes_partitus-1.0.2.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/stegastes_partitus/dna/Stegastes_partitus.Stegastes_partitus-1.0.2.dna.toplevel.fa.gz"
+    }
+  },
+  "homo_sapiens": {
+    "release": 112,
+    "assembly": "GRCh38",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz",
+      "dna_primary_assembly": "https://ftp.ensembl.org/pub/release-112/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz"
     }
   },
   "mus_spretus": {
     "release": 112,
     "assembly": "SPRET_EiJ_v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/mus_spretus/dna/mus_spretus.SPRET_EiJ_v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/mus_spretus/dna/Mus_spretus.SPRET_EiJ_v1.dna.toplevel.fa.gz"
+    }
+  },
+  "tupaia_belangeri": {
+    "release": 112,
+    "assembly": "TREESHREW",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/tupaia_belangeri/dna/Tupaia_belangeri.TREESHREW.dna.toplevel.fa.gz"
     }
   },
   "chelonoidis_abingdonii": {
     "release": 112,
     "assembly": "ASM359739v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/chelonoidis_abingdonii/dna/chelonoidis_abingdonii.ASM359739v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/chelonoidis_abingdonii/dna/Chelonoidis_abingdonii.ASM359739v1.dna.toplevel.fa.gz"
+    }
+  },
+  "meriones_unguiculatus": {
+    "release": 112,
+    "assembly": "MunDraft-v1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/meriones_unguiculatus/dna/Meriones_unguiculatus.MunDraft-v1.0.dna.toplevel.fa.gz"
     }
   },
   "seriola_lalandi_dorsalis": {
     "release": 112,
     "assembly": "Sedor1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/seriola_lalandi_dorsalis/dna/seriola_lalandi_dorsalis.Sedor1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/seriola_lalandi_dorsalis/dna/Seriola_lalandi_dorsalis.Sedor1.dna.toplevel.fa.gz"
+    }
+  },
+  "oryzias_latipes_hsok": {
+    "release": 112,
+    "assembly": "ASM223469v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/oryzias_latipes_hsok/dna/Oryzias_latipes_hsok.ASM223469v1.dna.toplevel.fa.gz"
     }
   },
   "sus_scrofa": {
     "release": 112,
     "assembly": "Sscrofa11.1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/sus_scrofa/dna/sus_scrofa.Sscrofa11.1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/sus_scrofa/dna/Sus_scrofa.Sscrofa11.1.dna.toplevel.fa.gz"
+    }
+  },
+  "amphilophus_citrinellus": {
+    "release": 112,
+    "assembly": "Midas_v5",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/amphilophus_citrinellus/dna/Amphilophus_citrinellus.Midas_v5.dna.toplevel.fa.gz"
     }
   },
   "tursiops_truncatus": {
     "release": 112,
     "assembly": "turTru1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/tursiops_truncatus/dna/tursiops_truncatus.turTru1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/tursiops_truncatus/dna/Tursiops_truncatus.turTru1.dna.toplevel.fa.gz"
+    }
+  },
+  "canis_lupus_familiarisboxer": {
+    "release": 112,
+    "assembly": "Dog10K_Boxer_Tasha",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/canis_lupus_familiarisboxer/dna/Canis_lupus_familiarisboxer.Dog10K_Boxer_Tasha.dna.toplevel.fa.gz"
     }
   },
   "cynoglossus_semilaevis": {
     "release": 112,
     "assembly": "Cse_v1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/cynoglossus_semilaevis/dna/cynoglossus_semilaevis.Cse_v1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/cynoglossus_semilaevis/dna/Cynoglossus_semilaevis.Cse_v1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "choloepus_hoffmanni": {
+    "release": 112,
+    "assembly": "choHof1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/choloepus_hoffmanni/dna/Choloepus_hoffmanni.choHof1.dna.toplevel.fa.gz"
     }
   },
   "gadus_morhua": {
     "release": 112,
     "assembly": "gadMor3.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/gadus_morhua/dna/gadus_morhua.gadMor3.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/gadus_morhua/dna/Gadus_morhua.gadMor3.0.dna.toplevel.fa.gz"
+    }
+  },
+  "oryzias_javanicus": {
+    "release": 112,
+    "assembly": "OJAV_1.1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/oryzias_javanicus/dna/Oryzias_javanicus.OJAV_1.1.dna.toplevel.fa.gz"
     }
   },
   "mus_spicilegus": {
     "release": 112,
     "assembly": "MUSP714",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/mus_spicilegus/dna/mus_spicilegus.MUSP714.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/mus_spicilegus/dna/Mus_spicilegus.MUSP714.dna.toplevel.fa.gz"
+    }
+  },
+  "hucho_hucho": {
+    "release": 112,
+    "assembly": "ASM331708v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/hucho_hucho/dna/Hucho_hucho.ASM331708v1.dna.toplevel.fa.gz"
     }
   },
   "salmo_salar": {
     "release": 112,
     "assembly": "Ssal_v3.1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/salmo_salar/dna/salmo_salar.Ssal_v3.1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/salmo_salar/dna/Salmo_salar.Ssal_v3.1.dna.toplevel.fa.gz"
+    }
+  },
+  "numida_meleagris": {
+    "release": 112,
+    "assembly": "NumMel1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/numida_meleagris/dna/Numida_meleagris.NumMel1.0.dna.toplevel.fa.gz"
     }
   },
   "prolemur_simus": {
     "release": 112,
     "assembly": "Prosim_1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/prolemur_simus/dna/prolemur_simus.Prosim_1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/prolemur_simus/dna/Prolemur_simus.Prosim_1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "mus_musculus_lpj": {
+    "release": 112,
+    "assembly": "LP_J_v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/mus_musculus_lpj/dna/Mus_musculus_lpj.LP_J_v1.dna.toplevel.fa.gz"
     }
   },
   "loxodonta_africana": {
     "release": 112,
-    "assembly": "Loxafr3.0",
+    "assembly": "loxAfr3",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/loxodonta_africana/dna/loxodonta_africana.Loxafr3.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/loxodonta_africana/dna/Loxodonta_africana.loxAfr3.dna.toplevel.fa.gz"
+    }
+  },
+  "ovis_aries_rambouillet": {
+    "release": 112,
+    "assembly": "ARS-UI_Ramb_v2.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/ovis_aries_rambouillet/dna/Ovis_aries_rambouillet.ARS-UI_Ramb_v2.0.dna.toplevel.fa.gz"
     }
   },
   "sus_scrofa_berkshire": {
     "release": 112,
     "assembly": "Berkshire_pig_v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/sus_scrofa_berkshire/dna/sus_scrofa_berkshire.Berkshire_pig_v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/sus_scrofa_berkshire/dna/Sus_scrofa_berkshire.Berkshire_pig_v1.dna.toplevel.fa.gz"
+    }
+  },
+  "takifugu_rubripes": {
+    "release": 112,
+    "assembly": "fTakRub1.2",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/takifugu_rubripes/dna/Takifugu_rubripes.fTakRub1.2.dna.toplevel.fa.gz"
     }
   },
   "ursus_americanus": {
     "release": 112,
     "assembly": "ASM334442v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/ursus_americanus/dna/ursus_americanus.ASM334442v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/ursus_americanus/dna/Ursus_americanus.ASM334442v1.dna.toplevel.fa.gz"
+    }
+  },
+  "gopherus_evgoodei": {
+    "release": 112,
+    "assembly": "rGopEvg1_v1.p",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/gopherus_evgoodei/dna/Gopherus_evgoodei.rGopEvg1_v1.p.dna.toplevel.fa.gz"
     }
   },
   "taeniopygia_guttata": {
     "release": 112,
     "assembly": "bTaeGut1_v1.p",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/taeniopygia_guttata/dna/taeniopygia_guttata.bTaeGut1_v1.p.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/taeniopygia_guttata/dna/Taeniopygia_guttata.bTaeGut1_v1.p.dna.toplevel.fa.gz"
+    }
+  },
+  "sus_scrofa_jinhua": {
+    "release": 112,
+    "assembly": "Jinhua_pig_v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/sus_scrofa_jinhua/dna/Sus_scrofa_jinhua.Jinhua_pig_v1.dna.toplevel.fa.gz"
     }
   },
   "anolis_carolinensis": {
     "release": 112,
     "assembly": "AnoCar2.0v2",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/anolis_carolinensis/dna/anolis_carolinensis.AnoCar2.0v2.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/anolis_carolinensis/dna/Anolis_carolinensis.AnoCar2.0v2.dna.toplevel.fa.gz"
+    }
+  },
+  "callorhinchus_milii": {
+    "release": 112,
+    "assembly": "Callorhinchus_milii-6.1.3",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/callorhinchus_milii/dna/Callorhinchus_milii.Callorhinchus_milii-6.1.3.dna.toplevel.fa.gz"
     }
   },
   "rattus_norvegicus": {
     "release": 112,
     "assembly": "mRatBN7.2",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/rattus_norvegicus/dna/rattus_norvegicus.mRatBN7.2.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/rattus_norvegicus/dna/Rattus_norvegicus.mRatBN7.2.dna.toplevel.fa.gz"
+    }
+  },
+  "echinops_telfairi": {
+    "release": 112,
+    "assembly": "TENREC",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/echinops_telfairi/dna/Echinops_telfairi.TENREC.dna.toplevel.fa.gz"
     }
   },
   "lepisosteus_oculatus": {
     "release": 112,
     "assembly": "LepOcu1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/lepisosteus_oculatus/dna/lepisosteus_oculatus.LepOcu1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/lepisosteus_oculatus/dna/Lepisosteus_oculatus.LepOcu1.dna.toplevel.fa.gz"
+    }
+  },
+  "papio_anubis": {
+    "release": 112,
+    "assembly": "Panubis1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/papio_anubis/dna/Papio_anubis.Panubis1.0.dna.toplevel.fa.gz"
     }
   },
   "cyprinus_carpio_germanmirror": {
     "release": 112,
     "assembly": "German_Mirror_carp_1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/cyprinus_carpio_germanmirror/dna/cyprinus_carpio_germanmirror.German_Mirror_carp_1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/cyprinus_carpio_germanmirror/dna/Cyprinus_carpio_germanmirror.German_Mirror_carp_1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "larimichthys_crocea": {
+    "release": 112,
+    "assembly": "L_crocea_2.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/larimichthys_crocea/dna/Larimichthys_crocea.L_crocea_2.0.dna.toplevel.fa.gz"
     }
   },
   "lonchura_striata_domestica": {
     "release": 112,
     "assembly": "LonStrDom1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/lonchura_striata_domestica/dna/lonchura_striata_domestica.LonStrDom1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/lonchura_striata_domestica/dna/Lonchura_striata_domestica.LonStrDom1.dna.toplevel.fa.gz"
+    }
+  },
+  "astyanax_mexicanus_pachon": {
+    "release": 112,
+    "assembly": "Astyanax_mexicanus-1.0.2",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/astyanax_mexicanus_pachon/dna/Astyanax_mexicanus_pachon.Astyanax_mexicanus-1.0.2.dna.toplevel.fa.gz"
     }
   },
   "sander_lucioperca": {
     "release": 112,
     "assembly": "SLUC_FBN_1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/sander_lucioperca/dna/sander_lucioperca.SLUC_FBN_1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/sander_lucioperca/dna/Sander_lucioperca.SLUC_FBN_1.dna.toplevel.fa.gz"
+    }
+  },
+  "astyanax_mexicanus": {
+    "release": 112,
+    "assembly": "Astyanax_mexicanus-2.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/astyanax_mexicanus/dna/Astyanax_mexicanus.Astyanax_mexicanus-2.0.dna.toplevel.fa.gz"
     }
   },
   "scleropages_formosus": {
     "release": 112,
     "assembly": "fSclFor1.1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/scleropages_formosus/dna/scleropages_formosus.fSclFor1.1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/scleropages_formosus/dna/Scleropages_formosus.fSclFor1.1.dna.toplevel.fa.gz"
+    }
+  },
+  "scophthalmus_maximus": {
+    "release": 112,
+    "assembly": "ASM1334776v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/scophthalmus_maximus/dna/Scophthalmus_maximus.ASM1334776v1.dna.toplevel.fa.gz"
     }
   },
   "cricetulus_griseus_picr": {
     "release": 112,
     "assembly": "CriGri-PICRH-1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/cricetulus_griseus_picr/dna/cricetulus_griseus_picr.CriGri-PICRH-1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/cricetulus_griseus_picr/dna/Cricetulus_griseus_picr.CriGri-PICRH-1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "salarias_fasciatus": {
+    "release": 112,
+    "assembly": "fSalaFa1.1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/salarias_fasciatus/dna/Salarias_fasciatus.fSalaFa1.1.dna.toplevel.fa.gz"
     }
   },
   "rhinolophus_ferrumequinum": {
     "release": 112,
     "assembly": "mRhiFer1_v1.p",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/rhinolophus_ferrumequinum/dna/rhinolophus_ferrumequinum.mRhiFer1_v1.p.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/rhinolophus_ferrumequinum/dna/Rhinolophus_ferrumequinum.mRhiFer1_v1.p.dna.toplevel.fa.gz"
+    }
+  },
+  "urocitellus_parryii": {
+    "release": 112,
+    "assembly": "ASM342692v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/urocitellus_parryii/dna/Urocitellus_parryii.ASM342692v1.dna.toplevel.fa.gz"
     }
   },
   "sus_scrofa_hampshire": {
     "release": 112,
     "assembly": "Hampshire_pig_v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/sus_scrofa_hampshire/dna/sus_scrofa_hampshire.Hampshire_pig_v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/sus_scrofa_hampshire/dna/Sus_scrofa_hampshire.Hampshire_pig_v1.dna.toplevel.fa.gz"
+    }
+  },
+  "amphiprion_percula": {
+    "release": 112,
+    "assembly": "Nemo_v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/amphiprion_percula/dna/Amphiprion_percula.Nemo_v1.dna.toplevel.fa.gz"
     }
   },
   "cavia_aperea": {
     "release": 112,
     "assembly": "CavAp1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/cavia_aperea/dna/cavia_aperea.CavAp1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/cavia_aperea/dna/Cavia_aperea.CavAp1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "oreochromis_niloticus": {
+    "release": 112,
+    "assembly": "O_niloticus_UMD_NMBU",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/oreochromis_niloticus/dna/Oreochromis_niloticus.O_niloticus_UMD_NMBU.dna.toplevel.fa.gz"
     }
   },
   "cyprinus_carpio_hebaored": {
     "release": 112,
     "assembly": "Hebao_red_carp_1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/cyprinus_carpio_hebaored/dna/cyprinus_carpio_hebaored.Hebao_red_carp_1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/cyprinus_carpio_hebaored/dna/Cyprinus_carpio_hebaored.Hebao_red_carp_1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "heterocephalus_glaber_male": {
+    "release": 112,
+    "assembly": "Naked_mole-rat_paternal",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/heterocephalus_glaber_male/dna/Heterocephalus_glaber_male.Naked_mole-rat_paternal.dna.toplevel.fa.gz"
     }
   },
   "sorex_araneus": {
     "release": 112,
-    "assembly": "sorAra1",
+    "assembly": "COMMON_SHREW1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/sorex_araneus/dna/sorex_araneus.sorAra1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/sorex_araneus/dna/Sorex_araneus.COMMON_SHREW1.dna.toplevel.fa.gz"
+    }
+  },
+  "ictalurus_punctatus": {
+    "release": 112,
+    "assembly": "ASM400665v3",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/ictalurus_punctatus/dna/Ictalurus_punctatus.ASM400665v3.dna.toplevel.fa.gz"
     }
   },
   "mus_musculus_cbaj": {
     "release": 112,
     "assembly": "CBA_J_v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/mus_musculus_cbaj/dna/mus_musculus_cbaj.CBA_J_v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/mus_musculus_cbaj/dna/Mus_musculus_cbaj.CBA_J_v1.dna.toplevel.fa.gz"
+    }
+  },
+  "moschus_moschiferus": {
+    "release": 112,
+    "assembly": "MosMos_v2_BIUU_UCD",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/moschus_moschiferus/dna/Moschus_moschiferus.MosMos_v2_BIUU_UCD.dna.toplevel.fa.gz"
     }
   },
   "sciurus_vulgaris": {
     "release": 112,
     "assembly": "mSciVul1.1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/sciurus_vulgaris/dna/sciurus_vulgaris.mSciVul1.1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/sciurus_vulgaris/dna/Sciurus_vulgaris.mSciVul1.1.dna.toplevel.fa.gz"
+    }
+  },
+  "mus_musculus_dba2j": {
+    "release": 112,
+    "assembly": "DBA_2J_v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/mus_musculus_dba2j/dna/Mus_musculus_dba2j.DBA_2J_v1.dna.toplevel.fa.gz"
     }
   },
   "otus_sunia": {
     "release": 112,
     "assembly": "OtuSun1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/otus_sunia/dna/otus_sunia.OtuSun1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/otus_sunia/dna/Otus_sunia.OtuSun1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "lepidothrix_coronata": {
+    "release": 112,
+    "assembly": "Lepidothrix_coronata-1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/lepidothrix_coronata/dna/Lepidothrix_coronata.Lepidothrix_coronata-1.0.dna.toplevel.fa.gz"
     }
   },
   "laticauda_laticaudata": {
     "release": 112,
     "assembly": "latLat_1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/laticauda_laticaudata/dna/laticauda_laticaudata.latLat_1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/laticauda_laticaudata/dna/Laticauda_laticaudata.latLat_1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "zosterops_lateralis_melanops": {
+    "release": 112,
+    "assembly": "ASM128173v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/zosterops_lateralis_melanops/dna/Zosterops_lateralis_melanops.ASM128173v1.dna.toplevel.fa.gz"
     }
   },
   "cercocebus_atys": {
     "release": 112,
     "assembly": "Caty_1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/cercocebus_atys/dna/cercocebus_atys.Caty_1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/cercocebus_atys/dna/Cercocebus_atys.Caty_1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "poecilia_reticulata": {
+    "release": 112,
+    "assembly": "Guppy_female_1.0_MT",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/poecilia_reticulata/dna/Poecilia_reticulata.Guppy_female_1.0_MT.dna.toplevel.fa.gz"
     }
   },
   "chinchilla_lanigera": {
     "release": 112,
     "assembly": "ChiLan1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/chinchilla_lanigera/dna/chinchilla_lanigera.ChiLan1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/chinchilla_lanigera/dna/Chinchilla_lanigera.ChiLan1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "chlorocebus_sabaeus": {
+    "release": 112,
+    "assembly": "ChlSab1.1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/chlorocebus_sabaeus/dna/Chlorocebus_sabaeus.ChlSab1.1.dna.toplevel.fa.gz"
     }
   },
   "chrysemys_picta_bellii": {
     "release": 112,
     "assembly": "Chrysemys_picta_bellii-3.0.3",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/chrysemys_picta_bellii/dna/chrysemys_picta_bellii.Chrysemys_picta_bellii-3.0.3.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/chrysemys_picta_bellii/dna/Chrysemys_picta_bellii.Chrysemys_picta_bellii-3.0.3.dna.toplevel.fa.gz"
+    }
+  },
+  "pteropus_vampyrus": {
+    "release": 112,
+    "assembly": "pteVam1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/pteropus_vampyrus/dna/Pteropus_vampyrus.pteVam1.dna.toplevel.fa.gz"
     }
   },
   "mus_musculus_balbcj": {
     "release": 112,
     "assembly": "BALB_cJ_v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/mus_musculus_balbcj/dna/mus_musculus_balbcj.BALB_cJ_v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/mus_musculus_balbcj/dna/Mus_musculus_balbcj.BALB_cJ_v1.dna.toplevel.fa.gz"
+    }
+  },
+  "oryzias_latipes": {
+    "release": 112,
+    "assembly": "ASM223467v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/oryzias_latipes/dna/Oryzias_latipes.ASM223467v1.dna.toplevel.fa.gz"
     }
   },
   "pogona_vitticeps": {
     "release": 112,
     "assembly": "pvi1.1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/pogona_vitticeps/dna/pogona_vitticeps.pvi1.1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/pogona_vitticeps/dna/Pogona_vitticeps.pvi1.1.dna.toplevel.fa.gz"
+    }
+  },
+  "sus_scrofa_meishan": {
+    "release": 112,
+    "assembly": "Meishan_pig_v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/sus_scrofa_meishan/dna/Sus_scrofa_meishan.Meishan_pig_v1.dna.toplevel.fa.gz"
     }
   },
   "anser_brachyrhynchus": {
     "release": 112,
     "assembly": "ASM259213v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/anser_brachyrhynchus/dna/anser_brachyrhynchus.ASM259213v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/anser_brachyrhynchus/dna/Anser_brachyrhynchus.ASM259213v1.dna.toplevel.fa.gz"
+    }
+  },
+  "mus_pahari": {
+    "release": 112,
+    "assembly": "PAHARI_EIJ_v1.1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/mus_pahari/dna/Mus_pahari.PAHARI_EIJ_v1.1.dna.toplevel.fa.gz"
     }
   },
   "gallus_gallus": {
     "release": 112,
     "assembly": "bGalGal1.mat.broiler.GRCg7b",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/gallus_gallus/dna/gallus_gallus.bGalGal1.mat.broiler.GRCg7b.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/gallus_gallus/dna/Gallus_gallus.bGalGal1.mat.broiler.GRCg7b.dna.toplevel.fa.gz"
+    }
+  },
+  "neovison_vison": {
+    "release": 112,
+    "assembly": "NNQGG.v01",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/neovison_vison/dna/Neovison_vison.NNQGG.v01.dna.toplevel.fa.gz"
     }
   },
   "bubo_bubo": {
     "release": 112,
     "assembly": "BubBub1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/bubo_bubo/dna/bubo_bubo.BubBub1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/bubo_bubo/dna/Bubo_bubo.BubBub1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "gasterosteus_aculeatus_gca006229185v1": {
+    "release": 112,
+    "assembly": "BOT",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/gasterosteus_aculeatus_gca006229185v1/dna/Gasterosteus_aculeatus_gca006229185v1.BOT.dna.toplevel.fa.gz"
     }
   },
   "gambusia_affinis": {
     "release": 112,
     "assembly": "ASM309773v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/gambusia_affinis/dna/gambusia_affinis.ASM309773v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/gambusia_affinis/dna/Gambusia_affinis.ASM309773v1.dna.toplevel.fa.gz"
+    }
+  },
+  "propithecus_coquereli": {
+    "release": 112,
+    "assembly": "Pcoq_1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/propithecus_coquereli/dna/Propithecus_coquereli.Pcoq_1.0.dna.toplevel.fa.gz"
     }
   },
   "piliocolobus_tephrosceles": {
     "release": 112,
     "assembly": "ASM277652v2",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/piliocolobus_tephrosceles/dna/piliocolobus_tephrosceles.ASM277652v2.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/piliocolobus_tephrosceles/dna/Piliocolobus_tephrosceles.ASM277652v2.dna.toplevel.fa.gz"
+    }
+  },
+  "gasterosteus_aculeatus_gca006232265v1": {
+    "release": 112,
+    "assembly": "BAM",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/gasterosteus_aculeatus_gca006232265v1/dna/Gasterosteus_aculeatus_gca006232265v1.BAM.dna.toplevel.fa.gz"
     }
   },
   "rattus_norvegicus_shrspbbbutx": {
     "release": 112,
     "assembly": "UTH_Rnor_SHRSP_BbbUtx_1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/rattus_norvegicus_shrspbbbutx/dna/rattus_norvegicus_shrspbbbutx.UTH_Rnor_SHRSP_BbbUtx_1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/rattus_norvegicus_shrspbbbutx/dna/Rattus_norvegicus_shrspbbbutx.UTH_Rnor_SHRSP_BbbUtx_1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "cyprinodon_variegatus": {
+    "release": 112,
+    "assembly": "C_variegatus-1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/cyprinodon_variegatus/dna/Cyprinodon_variegatus.C_variegatus-1.0.dna.toplevel.fa.gz"
     }
   },
   "xiphophorus_couchianus": {
     "release": 112,
     "assembly": "Xiphophorus_couchianus-4.0.1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/xiphophorus_couchianus/dna/xiphophorus_couchianus.Xiphophorus_couchianus-4.0.1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/xiphophorus_couchianus/dna/Xiphophorus_couchianus.Xiphophorus_couchianus-4.0.1.dna.toplevel.fa.gz"
+    }
+  },
+  "macaca_nemestrina": {
+    "release": 112,
+    "assembly": "Mnem_1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/macaca_nemestrina/dna/Macaca_nemestrina.Mnem_1.0.dna.toplevel.fa.gz"
     }
   },
   "mus_musculus_129s1svimj": {
     "release": 112,
     "assembly": "129S1_SvImJ_v1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/mus_musculus_129s1svimj/dna/mus_musculus_129s1svimj.129S1_SvImJ_v1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/mus_musculus_129s1svimj/dna/Mus_musculus_129s1svimj.129S1_SvImJ_v1.dna.toplevel.fa.gz"
+    }
+  },
+  "poecilia_mexicana": {
+    "release": 112,
+    "assembly": "P_mexicana-1.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/poecilia_mexicana/dna/Poecilia_mexicana.P_mexicana-1.0.dna.toplevel.fa.gz"
     }
   },
   "oncorhynchus_mykiss": {
     "release": 112,
     "assembly": "USDA_OmykA_1.1",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/oncorhynchus_mykiss/dna/oncorhynchus_mykiss.USDA_OmykA_1.1.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/oncorhynchus_mykiss/dna/Oncorhynchus_mykiss.USDA_OmykA_1.1.dna.toplevel.fa.gz"
+    }
+  },
+  "electrophorus_electricus": {
+    "release": 112,
+    "assembly": "fEleEle1.pri",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/electrophorus_electricus/dna/Electrophorus_electricus.fEleEle1.pri.dna.toplevel.fa.gz"
     }
   },
   "vulpes_vulpes": {
     "release": 112,
     "assembly": "VulVul2.2",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/vulpes_vulpes/dna/vulpes_vulpes.VulVul2.2.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/vulpes_vulpes/dna/Vulpes_vulpes.VulVul2.2.dna.toplevel.fa.gz"
+    }
+  },
+  "betta_splendens": {
+    "release": 112,
+    "assembly": "fBetSpl5.2",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/betta_splendens/dna/Betta_splendens.fBetSpl5.2.dna.toplevel.fa.gz"
     }
   },
   "sarcophilus_harrisii": {
     "release": 112,
     "assembly": "mSarHar1.11",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/sarcophilus_harrisii/dna/sarcophilus_harrisii.mSarHar1.11.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/sarcophilus_harrisii/dna/Sarcophilus_harrisii.mSarHar1.11.dna.toplevel.fa.gz"
+    }
+  },
+  "cottoperca_gobio": {
+    "release": 112,
+    "assembly": "fCotGob3.1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/cottoperca_gobio/dna/Cottoperca_gobio.fCotGob3.1.dna.toplevel.fa.gz"
     }
   },
   "suricata_suricatta": {
     "release": 112,
     "assembly": "meerkat_22Aug2017_6uvM2_HiC",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/suricata_suricatta/dna/suricata_suricatta.meerkat_22Aug2017_6uvM2_HiC.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/suricata_suricatta/dna/Suricata_suricatta.meerkat_22Aug2017_6uvM2_HiC.dna.toplevel.fa.gz"
+    }
+  },
+  "dasypus_novemcinctus": {
+    "release": 112,
+    "assembly": "Dasnov3.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/dasypus_novemcinctus/dna/Dasypus_novemcinctus.Dasnov3.0.dna.toplevel.fa.gz"
     }
   },
   "mustela_putorius_furo": {
     "release": 112,
     "assembly": "MusPutFur1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/mustela_putorius_furo/dna/mustela_putorius_furo.MusPutFur1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/mustela_putorius_furo/dna/Mustela_putorius_furo.MusPutFur1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "neogobius_melanostomus": {
+    "release": 112,
+    "assembly": "RGoby_Basel_V2",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/neogobius_melanostomus/dna/Neogobius_melanostomus.RGoby_Basel_V2.dna.toplevel.fa.gz"
     }
   },
   "drosophila_melanogaster": {
     "release": 112,
     "assembly": "BDGP6.46",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/drosophila_melanogaster/dna/drosophila_melanogaster.BDGP6.46.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/drosophila_melanogaster/dna/Drosophila_melanogaster.BDGP6.46.dna.toplevel.fa.gz"
+    }
+  },
+  "calidris_pugnax": {
+    "release": 112,
+    "assembly": "ASM143184v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/calidris_pugnax/dna/Calidris_pugnax.ASM143184v1.dna.toplevel.fa.gz"
     }
   },
   "salmo_salar_gca931346935v2": {
     "release": 112,
     "assembly": "Ssal_ALTA",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/salmo_salar_gca931346935v2/dna/salmo_salar_gca931346935v2.Ssal_ALTA.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/salmo_salar_gca931346935v2/dna/Salmo_salar_gca931346935v2.Ssal_ALTA.dna.toplevel.fa.gz"
+    }
+  },
+  "mus_musculus_nzohlltj": {
+    "release": 112,
+    "assembly": "NZO_HlLtJ_v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/mus_musculus_nzohlltj/dna/Mus_musculus_nzohlltj.NZO_HlLtJ_v1.dna.toplevel.fa.gz"
     }
   },
   "poecilia_formosa": {
     "release": 112,
-    "assembly": "Poecilia_formosa-5.1.2",
+    "assembly": "PoeFor_5.1.2",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/poecilia_formosa/dna/poecilia_formosa.Poecilia_formosa-5.1.2.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/poecilia_formosa/dna/Poecilia_formosa.PoeFor_5.1.2.dna.toplevel.fa.gz"
+    }
+  },
+  "mus_caroli": {
+    "release": 112,
+    "assembly": "CAROLI_EIJ_v1.1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/mus_caroli/dna/Mus_caroli.CAROLI_EIJ_v1.1.dna.toplevel.fa.gz"
     }
   },
   "capra_hircus_blackbengal": {
     "release": 112,
     "assembly": "CVASU_BBG_1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/capra_hircus_blackbengal/dna/capra_hircus_blackbengal.CVASU_BBG_1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/capra_hircus_blackbengal/dna/Capra_hircus_blackbengal.CVASU_BBG_1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "oryzias_latipes_hni": {
+    "release": 112,
+    "assembly": "ASM223471v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/oryzias_latipes_hni/dna/Oryzias_latipes_hni.ASM223471v1.dna.toplevel.fa.gz"
     }
   },
   "gasterosteus_aculeatus_gca006232285v1": {
     "release": 112,
     "assembly": "SYL",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/gasterosteus_aculeatus_gca006232285v1/dna/gasterosteus_aculeatus_gca006232285v1.SYL.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/gasterosteus_aculeatus_gca006232285v1/dna/Gasterosteus_aculeatus_gca006232285v1.SYL.dna.toplevel.fa.gz"
+    }
+  },
+  "petromyzon_marinus": {
+    "release": 112,
+    "assembly": "Pmarinus_7.0",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/petromyzon_marinus/dna/Petromyzon_marinus.Pmarinus_7.0.dna.toplevel.fa.gz"
     }
   },
   "panthera_tigris_altaica": {
     "release": 112,
     "assembly": "PanTig1.0",
     "files": {
-      "dna_toplevel": "ftp://ftp.ensembl.org/pub/release-112/fasta/panthera_tigris_altaica/dna/panthera_tigris_altaica.PanTig1.0.dna.toplevel.fa.gz"
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/panthera_tigris_altaica/dna/Panthera_tigris_altaica.PanTig1.0.dna.toplevel.fa.gz"
+    }
+  },
+  "mus_musculus_aj": {
+    "release": 112,
+    "assembly": "A_J_v1",
+    "files": {
+      "dna_toplevel": "https://ftp.ensembl.org/pub/release-112/fasta/mus_musculus_aj/dna/Mus_musculus_aj.A_J_v1.dna.toplevel.fa.gz"
     }
   }
 }
